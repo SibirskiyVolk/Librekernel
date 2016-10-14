@@ -551,8 +551,8 @@ elif [ $PLATFORM = "U14" -o $PLATFORM = "U12" ]; then
 	pwgen debconf-utils privoxy nginx php5-common \
 	php5-fpm php5-cli php5-json php5-mysql php5-curl php5-intl \
 	php5-mcrypt php5-memcache php-xml-parser php-pear unbound owncloud \
-	node npm apache2-mpm-prefork- apache2-utils- apache2.2-bin- \
-	apache2.2-common- openjdk-7-jre-headless phpmyadmin php5 \
+	node npm apache2-mpm-prefork apache2-utils apache2.2-bin \
+	apache2.2-common openjdk-7-jre-headless phpmyadmin php5 \
 	mysql-server-5.6 php5-gd php5-imap smarty3 git ntpdate macchanger \
 	bridge-utils hostapd isc-dhcp-server hostapd bridge-utils \
 	curl macchanger ntpdate tor bc sudo lsb-release dnsutils \
